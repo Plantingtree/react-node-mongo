@@ -1,4 +1,5 @@
 # Stage 1: Build React app
+# previlaged provided
 FROM node:10 AS build
 
 WORKDIR /app
