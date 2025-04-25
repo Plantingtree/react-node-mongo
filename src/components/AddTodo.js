@@ -11,7 +11,7 @@ export default class AddTodo extends React.Component {
   render() {
     return (
       <div className="new-todo form-group" style={containerStyle}>
-        <h3 style={titleStyle}>Aditya Tomar Personal todo list site</h3>
+        <h3 style={titleStyle}>Anup Personal todo list site</h3>
         <div style={inputContainerStyle}>
           <label htmlFor="todo-input" style={labelStyle}></label>
           <input
